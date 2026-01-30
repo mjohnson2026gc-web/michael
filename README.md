@@ -2,7 +2,7 @@
 
 michael is a small JavaScript library that demonstrates functionality for the js.org example.
 
-Demo: https://mjohnson2026gc-web.github.io/michael/
+Demo: https://mjohnson2026gc-web.github.io/michael-J/
 
 How to use
 1. Install: `npm install michael` (if published)
